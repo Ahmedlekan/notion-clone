@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-       <img width="945" alt="Image" src="https://github.com/user-attachments/assets/9584a205-837f-4ef0-a1fb-55cd1441a7ec" alt="Banner img" />
+       <img width="948" alt="Image" src="https://github.com/user-attachments/assets/51464929-4207-48a2-8410-f596dc67363e" />
     </a>
   <br />
 
@@ -46,8 +46,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/Ahmedlekan/bookstore.git
-cd bookstore
+git clone https://github.com/Ahmedlekan/notion-clone.git
+cd notion-clone
 ```
 
 ## Getting Started
